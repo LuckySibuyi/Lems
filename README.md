@@ -1,0 +1,1 @@
+This project is about a Loan Equipment management system which allos users to login, request equipment and check the status of the request. The administrator can check-out, check-in and update equipment information.
